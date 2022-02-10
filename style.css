@@ -1,0 +1,17 @@
+body {
+    background: rgba(222, 188, 245, 0.986);
+    color: rgb(24, 0, 34);
+}
+
+.heading {
+    background: rgb(215, 249, 250);
+    width: 50%;
+    font-weight: bold;
+}
+
+#userwebcam,
+#userimg {
+    width: 500px;
+    height: 400px;
+    border: 4px dotted rgb(31, 32, 32);
+}
